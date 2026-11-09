@@ -1,0 +1,8 @@
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+*.qcow2
+*.iso
+*.bin
